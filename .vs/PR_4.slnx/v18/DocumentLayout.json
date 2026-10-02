@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C67E7FB-537B-4053-ACDF-4058644283F3}|PR_4_2\\PR_4_2.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_2\\Lab_4_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C67E7FB-537B-4053-ACDF-4058644283F3}|PR_4_2\\PR_4_2.vcxproj|solutionrelative:PR_4_2\\Lab_4_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{215682D3-A035-4A7C-877A-9B017C083A46}|PR_4_1\\PR_4_1.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_1\\Lab_4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{215682D3-A035-4A7C-877A-9B017C083A46}|PR_4_1\\PR_4_1.vcxproj|solutionrelative:PR_4_1\\Lab_4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lab_4_2.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_2\\Lab_4_2.cpp",
+              "RelativeDocumentMoniker": "PR_4_2\\Lab_4_2.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_2\\Lab_4_2.cpp",
+              "RelativeToolTip": "PR_4_2\\Lab_4_2.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-02T06:40:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_4_1.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_1\\Lab_4_1.cpp",
               "RelativeDocumentMoniker": "PR_4_1\\Lab_4_1.cpp",
