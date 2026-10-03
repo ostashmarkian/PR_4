@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94922500-1F71-4304-9DD8-BBC5AF523B60}|PR_4_5\\PR_4_5.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_5\\Lab_4_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94922500-1F71-4304-9DD8-BBC5AF523B60}|PR_4_5\\PR_4_5.vcxproj|solutionrelative:PR_4_5\\Lab_4_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{260A5BF0-1C20-4A05-BC57-07760245C7C2}|PR_4_4\\PR_4_4.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_4\\Lab_4_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{260A5BF0-1C20-4A05-BC57-07760245C7C2}|PR_4_4\\PR_4_4.vcxproj|solutionrelative:PR_4_4\\Lab_4_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lab_4_5.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_5\\Lab_4_5.cpp",
+              "RelativeDocumentMoniker": "PR_4_5\\Lab_4_5.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_5\\Lab_4_5.cpp",
+              "RelativeToolTip": "PR_4_5\\Lab_4_5.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-03T08:47:25.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_4_4.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_4\\Lab_4_4.cpp",
               "RelativeDocumentMoniker": "PR_4_4\\Lab_4_4.cpp",
               "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_4\\Lab_4_4.cpp",
               "RelativeToolTip": "PR_4_4\\Lab_4_4.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-02T15:59:14.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lab_4_3.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_3\\Lab_4_3.cpp",
               "RelativeDocumentMoniker": "PR_4_3\\Lab_4_3.cpp",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lab_4_2.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_4\\PR_4_2\\Lab_4_2.cpp",
               "RelativeDocumentMoniker": "PR_4_2\\Lab_4_2.cpp",
